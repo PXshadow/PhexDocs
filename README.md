@@ -1,2 +1,3 @@
 PhexDocs
 =====
+[Rules](rules.md)
